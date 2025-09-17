@@ -1,1 +1,1 @@
-Will complete file README when the project perfects
+Will complete file README when the project perfect
