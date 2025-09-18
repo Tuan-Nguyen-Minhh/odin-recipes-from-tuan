@@ -1,1 +1,3 @@
-Will complete file README when the project perfect
+My First Project on The Odin Project
+Language:HTML
+Content : My favourite Recipes 
